@@ -1,4 +1,4 @@
-## Ada Lovelace | Mulheres que fizeram história na tecnologia
+## Ada Lovelace | Mulheres que fizeram história na tecnologia 🖥️
 
 Este projeto foi desenvolvido durante o curso Eu ProgrAmo, da PrograMaria (https://www.programaria.org/), utilizando as tecnologias HTML, CSS e JavaScript. 
 
