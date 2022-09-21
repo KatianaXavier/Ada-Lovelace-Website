@@ -10,3 +10,5 @@ Alguns conceitos utilizados:
 - **ligação** da página HTML com a folha de estilo CSS;
 - condicional **if**, uso do método **getElementById**  e **event listener** no arquivo JavaScript;
 - **ligação** do arquivo JavaScript com o arquivo HTML.
+
+https://katianaxavier.github.io/adaLovelace/
