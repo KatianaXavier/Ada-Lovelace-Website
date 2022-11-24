@@ -1,14 +1,26 @@
-## Ada Lovelace | Mulheres que fizeram história na tecnologia 🖥️
+<h1 align="center">
+  Ada Lovelace | Mulheres que fizeram história na tecnologia 🖥️
+</h1>
 
-Este projeto foi desenvolvido durante o curso Eu ProgrAmo, da PrograMaria (https://www.programaria.org/), utilizando as tecnologias HTML, CSS e JavaScript. 
+### 👩🏻‍💻 Projeto
 
-Alguns conceitos utilizados:
-- **seções**;
-- menu superior com **nagevação entre as seções**;
-- **formulário**;
-- **hiperlinks** com a tag **anchor**;
-- **ligação** da página HTML com a folha de estilo CSS;
-- condicional **if**, uso do método **getElementById**  e **event listener** no arquivo JavaScript;
-- **ligação** do arquivo JavaScript com o arquivo HTML.
+<strong>Site</strong> esenvolvido durante o curso Eu ProgrAmo, da PrograMaria (https://www.programaria.org/). Nele foram trabalhados:
 
-https://katianaxavier.github.io/adaLovelace/
+- seções;
+- menu superior com nagevação entre as seções;
+- formulário;
+- hiperlinks com a tag anchor;
+- ligação da página HTML com a folha de estilo CSS;
+- condicional if, uso do método getElementById  e event listener no arquivo JavaScript;
+- ligação do arquivo JavaScript com o arquivo HTML.
+
+#### Veja o projeto aqui:
+🔗 https://katianaxavier.github.io/adaLovelace/
+
+### 💫 Tecnologias
+
+Esse projeto foi desenvolvido com as seguintes tecnologias:
+
+- HTML
+- CSS
+- JavaScript
