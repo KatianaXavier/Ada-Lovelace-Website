@@ -15,7 +15,7 @@
 - ligação do arquivo JavaScript com o arquivo HTML.
 
 #### Veja o projeto aqui:
-🔗 https://katianaxavier.github.io/adaLovelace/
+🔗 https://katianaxavier.github.io/Ada-Lovelace-Website/
 
 ### 💫 Tecnologias
 
